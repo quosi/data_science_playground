@@ -102,3 +102,20 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+##### SPICED-SPECIFIC IGNORE FILES
+
+#readme generator
+#make_readme.py
+
+#main scheduler module
+#scheduler.py
+
+#pytest for scheduling functionality
+#test_links.py
+
+#Google Sheets API credentials
+credentials.json
+
+#cached credentials
+token.pickle
