@@ -103,4 +103,23 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+<<<<<<< HEAD
 .DS_Store
+=======
+##### SPICED-SPECIFIC IGNORE FILES
+
+#readme generator
+#make_readme.py
+
+#main scheduler module
+#scheduler.py
+
+#pytest for scheduling functionality
+#test_links.py
+
+#Google Sheets API credentials
+credentials.json
+
+#cached credentials
+token.pickle
+>>>>>>> 367e3d26d0daf7bba6991110af4aef2928bc7c14
