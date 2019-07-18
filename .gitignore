@@ -119,3 +119,6 @@ credentials.json
 
 #cached credentials
 token.pickle
+
+#data
+*.csv
