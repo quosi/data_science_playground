@@ -6,7 +6,7 @@
 | - | :--: | :--: |
 | Monday | [Project Introduction: Regression][1] | [Linear Regression][2] |
 | Tuesday | [Gradient Descent][3] | [DateTime Objects in Pandas][4] |
-| Wednesday | [Hyperparameter Optimization][5] | [Regularization][6] |
+| Wednesday | [Polynomial Features / Regularization][5] | [Pipelines / Hyperparameter Optimization][6] |
 | Thursday | Introduction to APIs | [Making Maps in Folium][8] |
 | Friday | [Debugging, Pt. 2][9] | [Project Recap][10] |
 
@@ -18,9 +18,9 @@
 
 [4]: http://krspiced.pythonanywhere.com/chapters/project_climate/ts_pandas/README.html#key-commands
 
-[5]: http://krspiced.pythonanywhere.com/chapters/project_titanic/hyperparameter_optimization/README.html
+[5]: http://krspiced.pythonanywhere.com/chapters/project_bicycles/regularization/README.html
 
-[6]: http://krspiced.pythonanywhere.com/chapters/project_bicycles/regularization/README.html
+[6]: http://krspiced.pythonanywhere.com/chapters/project_titanic/hyperparameter_optimization/README.html
 
 [8]: http://krspiced.pythonanywhere.com/data_visualization/drawing_maps/README.html
 
