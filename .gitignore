@@ -122,4 +122,10 @@ credentials.json
 
 #cached credentials
 token.pickle
+<<<<<<< HEAD
 >>>>>>> 367e3d26d0daf7bba6991110af4aef2928bc7c14
+=======
+
+#data
+*.csv
+>>>>>>> 36b846abe2843719714aea327a31452add86cb65
