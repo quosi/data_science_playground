@@ -1,29 +1,31 @@
 # Hypepperameters Schedule
 
-## Week 04: Time Series (Jul 29)
+## Week 05: Dashboard (Aug 5)
 
 | Day | Morning (9:15) | Afternoon (13:30) |
 | - | :--: | :--: |
-| Monday | [Project Introduction: Time Series][1] | [Decomposing a Time Series][2] |
-| Tuesday | [Forecasting Methods][3] | [Time Series in Pandas][4] |
-| Wednesday | [ARIMA Models][5] | [from Jupyter to Python Script][6] |
-| Thursday | [Python Namespaces][7] | [Docker][8] |
-| Friday | [Useful Python Modules][9] | recap quiz I|
+| Monday | [Postgres Intro][1] | [Creating Tables][2] |
+| Tuesday | [SQL Queries][3] | [Database backups and configuration][4] |
+| Wednesday | [Postgres from Python][5] | [Metabase][6] |
+| Thursday | [AWS RDS][7] | [AWS EC2][8] |
+| Friday | [Writing Python functions][9] | [TBD][10] |
 
-[1]: http://krspiced.pythonanywhere.com/chapters/project_climate/README.html
+[1]: http://krspiced.pythonanywhere.com/chapters/project_babynames/postgresql/README.html
 
-[2]: http://krspiced.pythonanywhere.com/chapters/project_climate/seasonal_forecast.html
+[2]: http://krspiced.pythonanywhere.com/chapters/project_babynames/postgresql/tables.html
 
-[3]: http://krspiced.pythonanywhere.com/chapters/project_climate/forecasting.html
+[3]: http://krspiced.pythonanywhere.com/chapters/project_babynames/postgresql/sql_queries.html
 
-[4]: http://krspiced.pythonanywhere.com/chapters/project_climate/ts_pandas/README.html
+[4]: https://www.postgresql.org/docs/9.3/app-pgdump.html
 
-[5]: http://krspiced.pythonanywhere.com/chapters/project_climate/forecasting.html
+[5]: http://krspiced.pythonanywhere.com/chapters/project_babynames/postgresql/sqlalchemy.html
 
-[6]: http://krspiced.pythonanywhere.com/structuring_python_programs/README.html
+[6]: http://krspiced.pythonanywhere.com/chapters/project_babynames/dashboard.html
 
-[7]: http://krspiced.pythonanywhere.com/structuring_python_programs/namespaces.html
+[7]: http://krspiced.pythonanywhere.com/chapters/project_babynames/aws.html
 
-[8]: http://krspiced.pythonanywhere.com/chapters/project_babynames/docker/README.html
+[8]: http://krspiced.pythonanywhere.com/chapters/project_babynames/aws.html
 
-[9]: http://krspiced.pythonanywhere.com/chapters/project_bicycles/useful_python_modules/README.html
+[9]: http://krspiced.pythonanywhere.com/chapters/project_lyrics/functions/README.html
+
+[10]: http://krspiced.pythonanywhere.com
