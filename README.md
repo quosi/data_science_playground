@@ -1,4 +1,4 @@
-# data_science_playground
+# Data Science Playground
 Playing around with different data science projects, data sets and frameworks.
 ## Projects
 - [Plant AI](./PlantAI) - plant disease diagnostics
