@@ -8,3 +8,4 @@ Playing around with different data science projects, data sets and frameworks.
 - [AirBnB Berlin](./AirBnBBerlin)
 - [NumPy 101](./NumPy101)
 - Country [Bip](./Bip) analysis
+- [R and Julia](./RaJ)
